@@ -2,3 +2,8 @@ int mark1, mark2, mark3, mark4
 read mark1, mark2, mark3, mark4
 Total= mark1+ mark2+ mark3+ mark4
 print Total
+if Total >= 50 then
+print "pass"
+else
+print "fail"
+end if 
